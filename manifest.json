@@ -1,0 +1,25 @@
+{
+  "name": "दुष्काळ संजीवनी – महाराष्ट्र",
+  "short_name": "दुष्काळ संजीवनी",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f7b5f",
+  "theme_color": "#0f7b5f",
+  "lang": "mr",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "description": "Team भूमिपुत्र – El Niño drought guide for Maharashtra",
+  "id": "./",
+  "scope": "./"
+}
